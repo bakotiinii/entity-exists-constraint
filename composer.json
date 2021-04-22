@@ -1,5 +1,5 @@
 {
-    "name": "jivochat/entity-exists-constraint",
+    "name": "bakotiinii/entity-exists-constraint",
     "description": "Symfony validator for checking if Entity Exist",
     "type": "library",
     "license": "MIT",
